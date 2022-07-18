@@ -14,14 +14,12 @@
   </a>  
 </div>
 <h1>
- Hiii Welcome to my Github Account
+ Hi ! I'm Hannah No
   <a href="https://github.com/nohannah">
-  <img src="https://i.makeagif.com/media/6-20-2021/SpTJC6.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400" height="300"/>
-  ---
+<div align="left">
 
+  
 ### :woman_technologist: About Me :
 </div>
   <ul>
