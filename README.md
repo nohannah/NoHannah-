@@ -11,7 +11,10 @@
   </a>
   <a href="nohannah508@gmail.com">
    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
-  </a>
-  
-  
+  </a>  
 </div>
+<h1>
+ Hiii Welcome to my Github Account
+  <a href="https://github.com/nohannah">
+  <img src="https://i.makeagif.com/media/6-20-2021/SpTJC6.gif" width="30px"/>
+</h1>
