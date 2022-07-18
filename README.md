@@ -29,3 +29,7 @@
   <br>
 <li><img src="https://data.whicdn.com/images/242569485/original.gif" width=35px> I'm currently learning <b>PYTHON,HTML,CSS,C and C#</b> </li>
  </ul>
+ <h2>Connect me :</h2>
+  <a href="https://www.facebook.com/hannahhhh1603">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
