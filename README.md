@@ -24,6 +24,10 @@
 
 ### :woman_technologist: About Me :
 </div>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a Higher Diploma Software Development Student From Cambodidia and <br> Information Technology Engineering at Royal University of PhnomPenh
+  <ul>
+<li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a Higher Diploma Software Development Student From Cambodidia and <br> Information Technology Engineering at Royal University of PhnomPenh</li>
 <br>
- <img src="https://thumbs.gfycat.com/CheapFamousAvocet-size_restricted.gif" width=30px> Follow what I want to learn is to find something attractive me in Code
+ <li><img src="https://thumbs.gfycat.com/CheapFamousAvocet-size_restricted.gif" width=30px> Follow what I want to learn is to find something attractive me in Code</li>
+  <br>
+<li><img src="https://data.whicdn.com/images/242569485/original.gif" width=35px> I'm currently learning <b>PYTHON,HTML,CSS,C and C#</b> </li>
+ </ul>
