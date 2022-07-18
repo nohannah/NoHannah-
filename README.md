@@ -12,6 +12,9 @@
   <a href="nohannah508@gmail.com">
    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/>
   </a>  
+  <a href="https://twitter.com/NoHannah4">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 <h1>
  Hi ! I'm Hannah No
