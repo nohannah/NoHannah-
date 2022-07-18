@@ -24,11 +24,6 @@
 
 ### :woman_technologist: About Me :
 </div>
-- I am a Higher Diploma Software Development Student From Cambodidia and <br> Information Technology Engineering at Royal University of PhnomPenh
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a Higher Diploma Software Development Student From Cambodidia and <br> Information Technology Engineering at Royal University of PhnomPenh
 <br>
-- :telescope: Exploring Code to get into it.
-
-- :zap: In my free time  I solve problems about code.
-
--  How to reach me <a href="nohannah508@gmail.com">Email</a>
+ <img src="https://thumbs.gfycat.com/CheapFamousAvocet-size_restricted.gif" width=30px> Follow what I want to learn is to find something attractive me in Code
