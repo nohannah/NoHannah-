@@ -18,3 +18,17 @@
   <a href="https://github.com/nohannah">
   <img src="https://i.makeagif.com/media/6-20-2021/SpTJC6.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400" height="300"/>
+  ---
+
+### :woman_technologist: About Me :
+</div>
+- I am a Higher Diploma Software Development Student From Cambodidia and <br> Information Technology Engineering at Royal University of PhnomPenh
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br>
+- :telescope: Exploring Code to get into it.
+
+- :zap: In my free time  I solve problems about code.
+
+-  How to reach me <a href="nohannah508@gmail.com">Email</a>
