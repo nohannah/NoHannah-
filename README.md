@@ -33,6 +33,7 @@
   <br>
 <li><img src="https://data.whicdn.com/images/242569485/original.gif" width=35px> I'm currently learning <b>PYTHON,PHP,MySQL,HTML,CSS,C and C#</b> </li>
  </ul>
+  <li><img src=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">  IT Internship at ISI GROUP </li>
  <h2>Connect me :</h2>
   <h2>Language and Tools</h2>
   <div>
