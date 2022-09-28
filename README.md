@@ -31,7 +31,7 @@
 <br>
  <li><img src="https://thumbs.gfycat.com/CheapFamousAvocet-size_restricted.gif" width=30px> Follow what I want to learn is to find something attractive me in Code</li>
   <br>
-<li><img src="https://data.whicdn.com/images/242569485/original.gif" width=35px> I'm currently learning <b>PYTHON,HTML,CSS,C and C#</b> </li>
+<li><img src="https://data.whicdn.com/images/242569485/original.gif" width=35px> I'm currently learning <b>PYTHON,PHP,MySQL,HTML,CSS,C and C#</b> </li>
  </ul>
  <h2>Connect me :</h2>
   <h2>Language and Tools</h2>
