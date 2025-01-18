@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 </div>
   <ul>
-<li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a Higher Diploma Software Development Student From Cambodia and <br> Information Technology Engineering at Royal University of PhnomPenh</li>
+<li><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVjOXAxczVxZmg3cHlnZHA5OHdrczd4NWkybnFhYjBqdm05ajY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="30px"> I am a Higher Diploma Software Development Student From Cambodia and <br> Information Technology Engineering at Royal University of PhnomPenh</li>
 <br>
  <li><img src="https://thumbs.gfycat.com/CheapFamousAvocet-size_restricted.gif" width=30px> Follow what I want to learn is to find something attractive me in Code</li>
   <br>
