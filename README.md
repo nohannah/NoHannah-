@@ -27,11 +27,11 @@
 ### :woman_technologist: About Me :
 </div>
   <ul>
-<li><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVjOXAxczVxZmg3cHlnZHA5OHdrczd4NWkybnFhYjBqdm05ajY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="30px"> I am a Higher Diploma Software Development Student From Cambodia and <br> Information Technology Engineering at Royal University of PhnomPenh</li>
+<li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am a Higher Diploma Software Development Student From Cambodia and <br> Information Technology Engineering at Royal University of PhnomPenh</li>
 <br>
  <li><img src="https://thumbs.gfycat.com/CheapFamousAvocet-size_restricted.gif" width=30px> Follow what I want to learn is to find something attractive me in Code</li>
   <br>
-<li><img src="https://data.whicdn.com/images/242569485/original.gif" width=35px> I'm currently learning <b>PYTHON,PHP,MySQL,HTML,CSS,C and C#</b> </li>
+<li><img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width=35px> I'm currently learning <b>PYTHON,PHP,MySQL,HTML,CSS,C and C#</b> </li>
  </ul>
   <li><img src=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">  IT Internship at ISI GROUP </li>
  <h2>Connect me :</h2>
